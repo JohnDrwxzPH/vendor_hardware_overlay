@@ -122,10 +122,15 @@
         <value>50</value>
         <value>60</value>
     </array>
+    <array name="memory.bandwidths">
+        <value>22.7</value>
+    </array>
     <item name="battery.capacity">5000</item>
     <item name="wifi.controller.idle">15.2</item>
     <item name="wifi.controller.rx">220.55</item>
     <item name="wifi.controller.tx">362.94</item>
+    <array name="wifi.controller.tx_levels" />
+    <item name="wifi.controller.voltage">0</item>
     <array name="wifi.batchedscan">
         <value>36.02</value>
         <value>36.02</value>
@@ -143,4 +148,10 @@
         <value>111.2</value>
         <value>106.4</value>
     </array>
+    <item name="modem.controller.voltage">0</item>
+    <array name="gps.signalqualitybased">
+        <value>0</value>
+        <value>0</value>
+    </array>
+    <item name="gps.voltage">0</item>
 </device>
